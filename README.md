@@ -7,16 +7,16 @@ Here is a dataset including customer reviews of the particular restaurant. For t
 https://drive.google.com/file/d/11hlL0LWyZ1IE_j0Ye2OQrXu5aHpv9PU2/view?usp=sharing
 
 #  Dataset Details:
-  •	business_id	
-  •	date	
-  •	review_id	
-  •	stars	
-  •	text	
-  •	type	
-  •	user_id	
-  •	cool	
-  •	useful	
-  •	funny
+  -	business_id
+  -	date
+  -	review_id
+  -	stars
+  -	text
+  -	type
+  -	user_id
+  -	cool
+  -	useful
+  -	funny
 
 #  Flow:
   -	Data collection
